@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body{
+    
+	background-color: #444;
+  	
+}
+
+.panel-heading h3
+{
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 8px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+
+#form_head_design span
+{
+	display: inline-block;
+}
+
+
+
+.reg_link
+{
+	display: inline-block;
+	padding-top: 10px;
+}
+
+.reg_link p
+{
+	display: inline-block;
+}
+
+.reg_link a
+{
+	display: inline-block;
+	text-decoration: none;
+	margin-left: 68px;
+
+}
+
+
+
+#reg_form h3
+{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 30px;
+	color: #1bd075;
+}
+
+#signup
+{
+	width: 362px;
+}
+
+label,input
+{
+	font-family: 'Raleway', sans-serif;
+}
